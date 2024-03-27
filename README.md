@@ -41,7 +41,7 @@ Studio Code, etc.).
 
 ### Configuração
 Clone o repositório:
-git clone [url-do-repositorio]
+git clone https://github.com/leoarcabold/Sistema-de-Gestao-de-Estoque-para-Pequena-Empresa_.git
 
 ### Uso
 Este sistema fornece uma interface de linha de comando para gerenciar produtos,
